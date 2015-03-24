@@ -1,0 +1,31 @@
+{
+    "name": "photocrop",
+    "version": "1.0.0",
+    "status": "",
+    "package":"photocrop",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "Photocrop module gives the facilities for croping and rotating photos before uploading them.",
+    "keywords": "logiks,modules,photocrop",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/photocrop",
+    "bugs": "https://github.com/LogiksPlugins/photocrop/issues",
+    "private": false,
+    "permissions": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/photocrop.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
